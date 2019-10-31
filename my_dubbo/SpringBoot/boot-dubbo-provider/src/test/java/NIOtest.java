@@ -19,10 +19,10 @@ public class NIOtest {
 
         ByteBuffer byteBuffer = ByteBuffer.allocate(1024);
         int len = -1;
-        Scanner scanner=new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         while (scanner.hasNext()) {
-            String str=scanner.next();
-            byteBuffer.put((new Date().toString()+"说："+str).getBytes());
+            String str = scanner.next();
+            byteBuffer.put((new Date().toString() + "说：" + str).getBytes());
             byteBuffer.flip();
             sChannel.write(byteBuffer);
             byteBuffer.clear();
@@ -57,8 +57,8 @@ public class NIOtest {
                 } else if (sk.isReadable()) {
                     SocketChannel sChannel = (SocketChannel) sk.channel();
                     ByteBuffer byteBuffer = ByteBuffer.allocate(1024);
-                    int len = -1;
-                    while ((len = sChannel.read(byteBuffer)) != -1) {
+                    int len = 0;
+                    while ((len = sChannel.read(byteBuffer)) > 0) {
                         byteBuffer.flip();
                         System.out.println(new String(byteBuffer.array(), 0, len));
                         byteBuffer.clear();

@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c1712754-8064-47ed-bd08-87cc6c2b34cf" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NIOtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NIOtest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,10 +80,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NIOtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NIOtest" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NIOtest" />
       <module name="boot-dubbo-provider" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -165,11 +164,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.NIOtest" />
       <item itemvalue="JUnit.Test02.test02" />
       <item itemvalue="JUnit.Test02.test01" />
       <item itemvalue="JUnit.NIOtest.server" />
       <item itemvalue="JUnit.NIOtest.clien" />
-      <item itemvalue="Application.NIOtest" />
     </list>
     <recent_temporary>
       <list>
