@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1712754-8064-47ed-bd08-87cc6c2b34cf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SSM/dubbo-api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SSM/dubbo-api/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SSM/dubbo-api/target/api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../SSM/dubbo-api/target/api-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SSM/dubbo-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../SSM/dubbo-api/target/maven-archiver/pom.properties" afterDir="false" />
@@ -20,12 +16,6 @@
       <change beforePath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/ConUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/ConUserService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/impl/ConUserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/impl/ConUserServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/stub/UserServiceStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/stub/UserServiceStub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boot-dubbo-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/boot-dubbo-provider.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +200,7 @@
       <workItem from="1572271823345" duration="6683000" />
       <workItem from="1572278802956" duration="619000" />
       <workItem from="1572311913441" duration="13440000" />
-      <workItem from="1572404283274" duration="1464000" />
+      <workItem from="1572404283274" duration="2025000" />
     </task>
     <servers />
   </component>
