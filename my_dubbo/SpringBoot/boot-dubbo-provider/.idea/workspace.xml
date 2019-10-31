@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1712754-8064-47ed-bd08-87cc6c2b34cf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../SSM/dubbo-api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SSM/dubbo-api/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SSM/dubbo-api/target/api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../SSM/dubbo-api/target/api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SSM/dubbo-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../SSM/dubbo-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SSM/dubbo-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../SSM/dubbo-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SSM/dubbo-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../SSM/dubbo-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SSM/dubbo-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SSM/dubbo-provider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SSM/dubbo-provider/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../boot-dubbo-consumer/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-consumer/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../boot-dubbo-consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-consumer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/Start.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/controller/ConUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/controller/ConUserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/ConUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/ConUserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/impl/ConUserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/impl/ConUserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/stub/UserServiceStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-consumer/target/classes/com/HHH/service/stub/UserServiceStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test02.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,9 +73,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test02.test01">
+  <component name="RunManager" selected="Application.NIOtest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NIOtest" />
+      <module name="boot-dubbo-provider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,10 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="NIOtest.clien" type="JUnit" factoryName="JUnit" singleton="false" temporary="true" nameIsGenerated="true">
       <module name="boot-dubbo-provider" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NIOtest" />
+      <option name="METHOD_NAME" value="clien" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOtest.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boot-dubbo-provider" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NIOtest" />
+      <option name="METHOD_NAME" value="server" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,19 +146,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="boot-dubbo-provider" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.HHH.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.HHH.MainApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -167,17 +165,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
       <item itemvalue="JUnit.Test02.test02" />
       <item itemvalue="JUnit.Test02.test01" />
-      <item itemvalue="Spring Boot.MainApplication" />
+      <item itemvalue="JUnit.NIOtest.server" />
+      <item itemvalue="JUnit.NIOtest.clien" />
+      <item itemvalue="Application.NIOtest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NIOtest" />
+        <item itemvalue="JUnit.NIOtest.server" />
+        <item itemvalue="JUnit.NIOtest.clien" />
         <item itemvalue="JUnit.Test02.test01" />
         <item itemvalue="JUnit.Test02.test02" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Spring Boot.MainApplication" />
       </list>
     </recent_temporary>
   </component>
