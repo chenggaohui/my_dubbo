@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1712754-8064-47ed-bd08-87cc6c2b34cf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/CountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestForkJoinPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestScheduledThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestThreadPool.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NIOtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NIOtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CompareAndSwap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaCornTwo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MYCAS$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MYCAS.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +57,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="E:/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="F:/temp/test/MyWord/MyWord/myword" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -73,9 +82,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NIOtest">
+  <component name="RunManager" selected="Application.TestScheduledThreadPool">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountDownLatchTest" />
+      <module name="boot-dubbo-provider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,53 +104,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="TestLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestLock" />
+      <module name="boot-dubbo-provider" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NIOtest.clien" type="JUnit" factoryName="JUnit" singleton="false" temporary="true" nameIsGenerated="true">
+    <configuration name="TestScheduledThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestScheduledThreadPool" />
       <module name="boot-dubbo-provider" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NIOtest" />
-      <option name="METHOD_NAME" value="clien" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NIOtest.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestThreadPool" />
       <module name="boot-dubbo-provider" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NIOtest" />
-      <option name="METHOD_NAME" value="server" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="boot-dubbo-provider" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test02" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test02.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="boot-dubbo-provider" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test02" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -165,18 +161,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.NIOtest" />
-      <item itemvalue="JUnit.Test02.test02" />
-      <item itemvalue="JUnit.Test02.test01" />
-      <item itemvalue="JUnit.NIOtest.server" />
-      <item itemvalue="JUnit.NIOtest.clien" />
+      <item itemvalue="Application.CountDownLatchTest" />
+      <item itemvalue="Application.TestLock" />
+      <item itemvalue="Application.TestThreadPool" />
+      <item itemvalue="Application.TestScheduledThreadPool" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestScheduledThreadPool" />
+        <item itemvalue="Application.TestLock" />
+        <item itemvalue="Application.TestThreadPool" />
+        <item itemvalue="Application.CountDownLatchTest" />
         <item itemvalue="Application.NIOtest" />
-        <item itemvalue="JUnit.NIOtest.server" />
-        <item itemvalue="JUnit.NIOtest.clien" />
-        <item itemvalue="JUnit.Test02.test01" />
-        <item itemvalue="JUnit.Test02.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +196,9 @@
       <workItem from="1572278802956" duration="619000" />
       <workItem from="1572311913441" duration="13440000" />
       <workItem from="1572404283274" duration="2025000" />
+      <workItem from="1572938213895" duration="38000" />
+      <workItem from="1572954224614" duration="4703000" />
+      <workItem from="1573047358726" duration="2815000" />
     </task>
     <servers />
   </component>
