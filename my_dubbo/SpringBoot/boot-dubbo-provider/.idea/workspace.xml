@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1712754-8064-47ed-bd08-87cc6c2b34cf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/CountDownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestForkJoinPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestScheduledThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CompareAndSwap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaCornTwo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MYCAS$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MYCAS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestForkJoinPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestForkJoinPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestScheduledThreadPool$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestScheduledThreadPool$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestScheduledThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestScheduledThreadPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestThreadPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ThreadPoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ThreadPoolDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Ticket.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -82,24 +81,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestScheduledThreadPool">
+  <component name="RunManager" selected="Application.TestForkJoinPool">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountDownLatchTest" />
+    <configuration name="TestForkJoinPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestForkJoinPool" />
       <module name="boot-dubbo-provider" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NIOtest" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NIOtest" />
-      <module name="boot-dubbo-provider" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,6 +126,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestForkJoinPool.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boot-dubbo-provider" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestForkJoinPool" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -160,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NIOtest" />
-      <item itemvalue="Application.CountDownLatchTest" />
       <item itemvalue="Application.TestLock" />
       <item itemvalue="Application.TestThreadPool" />
       <item itemvalue="Application.TestScheduledThreadPool" />
+      <item itemvalue="Application.TestForkJoinPool" />
+      <item itemvalue="JUnit.TestForkJoinPool.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestForkJoinPool" />
+        <item itemvalue="JUnit.TestForkJoinPool.test" />
+        <item itemvalue="Application.TestThreadPool" />
         <item itemvalue="Application.TestScheduledThreadPool" />
         <item itemvalue="Application.TestLock" />
-        <item itemvalue="Application.TestThreadPool" />
-        <item itemvalue="Application.CountDownLatchTest" />
-        <item itemvalue="Application.NIOtest" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +201,7 @@
       <workItem from="1572404283274" duration="2025000" />
       <workItem from="1572938213895" duration="38000" />
       <workItem from="1572954224614" duration="4703000" />
-      <workItem from="1573047358726" duration="2815000" />
+      <workItem from="1573047358726" duration="7440000" />
     </task>
     <servers />
   </component>
