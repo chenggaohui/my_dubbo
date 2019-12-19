@@ -8,7 +8,7 @@ public class CountDownLatchTest {
         LatchDemo latchDemo=new LatchDemo(countDownLatch);
         long start=System.currentTimeMillis();
         for(int i=0;i<5;i++){
-            new Thread(latchDemo).start();
+            new Thread(latchDemo,i+"").start();
         }
         countDownLatch.await();
         long end=System.currentTimeMillis();
@@ -26,7 +26,7 @@ class LatchDemo implements Runnable{
     public void run() {
         for (int i=0;i<100;i++){
             if (i%2==0){
-                System.out.println("结果有："+i);
+                System.out.println(Thread.currentThread().getName()+"结果有："+i);
             }
         }
         countDownLatch.countDown();

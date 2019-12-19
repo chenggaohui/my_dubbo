@@ -50,4 +50,9 @@ public class Test02 {
         fileChannel.close();
 
     }
+    @Test
+    public void te(){
+        String string="我是XXX程高辉XXX";
+        System.out.println(string.replace('X','G'));
+    }
 }

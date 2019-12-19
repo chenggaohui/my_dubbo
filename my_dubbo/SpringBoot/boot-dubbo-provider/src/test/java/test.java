@@ -6,6 +6,9 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.List;
 
+/**
+ * NIO练习
+ */
 public class test {
     public static void main(String[] args) throws IOException {
 

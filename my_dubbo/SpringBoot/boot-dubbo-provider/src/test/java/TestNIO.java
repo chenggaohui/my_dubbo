@@ -10,7 +10,10 @@ import java.util.Date;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class NIOtest {
+/**
+ * NIO练习
+ */
+public class TestNIO {
 
     public static void main(String[] args) throws IOException {
         SocketChannel sChannel = SocketChannel.open(new InetSocketAddress("localhost", 9090));
