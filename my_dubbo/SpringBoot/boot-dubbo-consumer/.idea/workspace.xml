@@ -1,19 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0006ac8c-5843-4011-8958-024d720c0db1" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="2d1480b7-c26e-4803-b49b-ecd5b6382559" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_registry_nacos_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_api_0_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_0_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_common_0_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_spring_context_0_2_3_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_spring_spring_context_support_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_lgpl_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_lgpl_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__com_alibaba_dubbo_registry_nacos_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__com_alibaba_nacos_nacos_api_0_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_0_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__com_alibaba_nacos_nacos_common_0_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__com_alibaba_nacos_nacos_spring_context_0_2_3_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__com_alibaba_spring_spring_context_support_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_lgpl_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_lgpl_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SSM/dubbo-api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SSM/dubbo-api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/boot-dubbo-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/boot-dubbo-consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/HHH/controller/ConUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/HHH/controller/ConUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/HHH/controller/ConUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/HHH/controller/ConUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/boot-dubbo-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/boot-dubbo-provider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/main/java/com/HHH/service/Impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/main/java/com/HHH/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/CountDownLatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/CountDownLatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/Test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestForkJoinPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestForkJoinPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestNIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestNIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestScheduledThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestScheduledThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/TestThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/src/test/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/classes/META-INF/boot-dubbo-provider.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/target/classes/META-INF/boot-dubbo-provider.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-dubbo-provider/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/CountDownLatchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/ForkJoinSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/LatchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/META-INF/boot-dubbo-provider.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/TestForkJoinPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/TestLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/TestNIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/TestScheduledThreadPool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/TestScheduledThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/TestString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/TestThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/ThreadPoolDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-dubbo-provider/target/test-classes/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dubbo-admin" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -21,47 +89,36 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\JavaBase\Maven\LocalData" />
-        <option name="mavenHome" value="E:/Maven/apache-maven-3.5.0" />
-        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.5.0\conf\settings.xml" />
+        <option name="mavenHome" value="D:/JavaBase/Maven/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\JavaBase\Maven\apache-maven-3.6.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="ProjectId" id="1SnFhQ88oWsxYCZ7RYvFbn6D0hm" />
+  <component name="ProjectId" id="1XjfJEzDZ4ui3wqwprLZ80dTvjo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelOrder2" value="2" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../boot-dubbo-provider" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\study\my_dubbo\SpringBoot\boot-dubbo-consumer\src\main\java" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -125,21 +182,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0006ac8c-5843-4011-8958-024d720c0db1" name="Default" comment="" />
-      <created>1571326181679</created>
+      <changelist id="2d1480b7-c26e-4803-b49b-ecd5b6382559" name="Default" comment="" />
+      <created>1573837959782</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571326181679</updated>
-      <workItem from="1571326186979" duration="3287000" />
-      <workItem from="1571394815722" duration="5964000" />
-      <workItem from="1571485233464" duration="686000" />
-      <workItem from="1571658129369" duration="1192000" />
-      <workItem from="1571746609338" duration="703000" />
-      <workItem from="1572191574747" duration="1057000" />
-      <workItem from="1572222309279" duration="369000" />
-      <workItem from="1572223312583" duration="883000" />
-      <workItem from="1572259555664" duration="354000" />
-      <workItem from="1572271793224" duration="28000" />
+      <updated>1573837959782</updated>
+      <workItem from="1573837962859" duration="75000" />
+      <workItem from="1574498460857" duration="49000" />
+      <workItem from="1581564352001" duration="1674000" />
+      <workItem from="1581579152059" duration="1057000" />
+      <workItem from="1581938602458" duration="316000" />
+      <workItem from="1582270410942" duration="1975000" />
+      <workItem from="1583729508712" duration="632000" />
+      <workItem from="1584319118040" duration="1326000" />
+      <workItem from="1584350169729" duration="1770000" />
+      <workItem from="1584356868411" duration="639000" />
     </task>
     <servers />
   </component>
@@ -159,54 +216,38 @@
       </map>
     </option>
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="256" key="GridCell.Tab.0.bottom" timestamp="1584355279807">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="256" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1584355279807" />
+    <state width="1237" height="256" key="GridCell.Tab.0.center" timestamp="1584355279807">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="256" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1584355279807" />
+    <state width="1237" height="256" key="GridCell.Tab.0.left" timestamp="1584355279807">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="256" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1584355279807" />
+    <state width="1237" height="256" key="GridCell.Tab.0.right" timestamp="1584355279807">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="256" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1584355279807" />
+    <state width="1237" height="256" key="GridCell.Tab.1.bottom" timestamp="1584355279807">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="256" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1584355279807" />
+    <state width="1237" height="256" key="GridCell.Tab.1.center" timestamp="1584355279807">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="256" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1584355279807" />
+    <state width="1237" height="256" key="GridCell.Tab.1.left" timestamp="1584355279807">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="256" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1584355279807" />
+    <state width="1237" height="256" key="GridCell.Tab.1.right" timestamp="1584355279807">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="256" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1584355279807" />
   </component>
 </project>

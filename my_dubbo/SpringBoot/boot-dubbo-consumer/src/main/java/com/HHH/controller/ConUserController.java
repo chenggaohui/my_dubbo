@@ -15,7 +15,7 @@ public class ConUserController {
     @Autowired
     ConUserService conUserService;
     @ResponseBody
-    @RequestMapping("getUser")
+    @RequestMapping("/getUser")
     public List<User> getUserByGender(@RequestParam("gender") char gender){
         List<User> result = conUserService.getUserInfoByGender(gender);
         return result;

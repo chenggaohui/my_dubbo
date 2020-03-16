@@ -9,7 +9,7 @@
         <module name="boot-dubbo-consumer" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="boot-dubbo-consumer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
